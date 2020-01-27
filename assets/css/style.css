@@ -41,7 +41,7 @@ p {
   margin: 0 0 30px; }
 
 a {
-  color: #F03838;
+  color: #3894f0;
   text-decoration: none; }
 
 ul, ol {
@@ -165,10 +165,10 @@ table {
   padding: 10px 12px;
   text-transform: uppercase; }
   .button:hover {
-    background: #F03838; }
+    background: #3894f0; }
 
 .button-square {
-  background: #F03838;
+  background: #3894f0;
   color: #FFF;
   float: left;
   font-size: 17px;
@@ -198,7 +198,7 @@ table {
   text-transform: uppercase; }
   .site-title a {
     float: left;
-    background: #F03838;
+    background: #3894f0;
     color: #FEFEFE;
     padding: 5px 10px 6px; }
     .site-title a:hover {
@@ -261,7 +261,7 @@ table {
     color: #AEADAD; }
   .post-date a:hover,
   .blog-description a:hover {
-    color: #F03838; }
+    color: #3894f0; }
   .post-date:after,
   .blog-description:after {
     border-bottom: 1px dotted #303030;
@@ -271,7 +271,7 @@ table {
     width: 100px; }
 
 .post-content a:hover {
-  border-bottom: 1px dotted #F03838;
+  border-bottom: 1px dotted #3894f0;
   padding: 0 0 2px; }
 .post-content:last-child {
   margin-bottom: 0; }
@@ -296,7 +296,7 @@ table {
 .share {
   float: right; }
   .share a {
-    background: #F03838;
+    background: #3894f0;
     color: #FFF;
     display: inline-block;
     font-size: 16px;
@@ -314,7 +314,7 @@ table {
 .newer-posts,
 .older-posts {
   float: left;
-  background: #F03838;
+  background: #3894f0;
   color: #FEFEFE;
   font-size: 14px;
   font-weight: 600;
@@ -352,10 +352,10 @@ table {
     padding: 20px 5px; }
     .post-stub a:hover {
       background: #FCF5F5;
-      color: #F03838;
+      color: #3894f0;
       padding: 20px 12px; }
       .post-stub a:hover .post-stub-tag {
-        background: #F03838; }
+        background: #3894f0; }
 
 .post-stub-tag {
   background: #303030;
@@ -431,7 +431,7 @@ table {
   .author-meta a {
     color: #AEADAD; }
   .author-meta a:hover {
-    color: #F03838; }
+    color: #3894f0; }
 
 .author-bio {
   margin: 20px auto 0;
@@ -473,14 +473,14 @@ table {
 /* NProgress */
 /* ============================================================ */
 #nprogress .bar {
-  background: #F03838; }
+  background: #3894f0; }
 
 #nprogress .peg {
-  box-shadow: 0 0 10px #F03838, 0 0 5px #F03838; }
+  box-shadow: 0 0 10px #3894f0, 0 0 5px #3894f0; }
 
 #nprogress .spinner-icon {
-  border-top-color: #F03838;
-  border-left-color: #F03838; }
+  border-top-color: #3894f0;
+  border-left-color: #3894f0; }
 
 /* ============================================================ */
 /* Media Queries */
